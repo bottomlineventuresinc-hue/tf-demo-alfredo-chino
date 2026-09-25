@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical and panels across Chino and the Inland Empire. Alfredo looks at the job first and puts the price in writing.';
+            'Residential electrical and panels in Chino. Alfredo looks at the job first and puts the price in writing.';
         }
       }
     },
