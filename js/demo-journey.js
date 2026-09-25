@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panel work, and wiring across Chino and the Inland Empire. You get a fixed itemised quote before we start, Alfredo as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Residential electrical and panels across Chino and the Inland Empire. Alfredo looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Panel work and wiring,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Panels, outlets, and lights,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Residential electrical (written programme)';
+          serviceFirst.textContent = 'Panel upgrades (written price)';
         }
       }
     }
